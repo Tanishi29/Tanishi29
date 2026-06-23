@@ -4,9 +4,9 @@ Current junior at Arizona State University in Computer Science (Sotware Enginner
 Currently building awesome projects on C++, JavaScript, and Java. 
 Looking forward to master Python with some amazing projects! 😍
 
-🔭 I’m currently working on my portfolio website. 
-🌱 I’m currently learning REACT, DSA (Neetcode & Leetcode grind 🥶), and mastering Python skills. 
-📫 How to reach me:
+- 🔭 I’m currently working on my portfolio website. 
+- 🌱 I’m currently learning REACT, DSA (Neetcode & Leetcode grind 🥶), and mastering Python skills. 
+- 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/tanishi-kumar-888a40330/
   - Email: tanishikumar12@gmail.com 🫶🏼
   - Handshake: https://app.joinhandshake.com/profiles/xkdz5v (tho ASU is getting rid of Handshake very soon) 
