@@ -4,6 +4,8 @@ Current junior at Arizona State University in Computer Science (Sotware Enginner
 Currently building awesome projects on C++, JavaScript, and Java. 
 Looking forward to master Python with some amazing projects! 😍
 
+My hobbies include drawing, reading, and playing badminton!
+
 - 🔭 Recently designed my portfolio website; feel free to visit :) !
   - website link: https://tanishi29.github.io/ 
 - 🌱 I’m currently learning REACT, DSA (Neetcode & Leetcode grind 🥶), and mastering Python skills. 
